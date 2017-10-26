@@ -11,3 +11,5 @@ My goals with Github are:
 - [ ] Be able to use my codes in everyday life
 
 Thanks for reading this!
+
+(*PS: The boxes will be checked off after each goal is completed*)

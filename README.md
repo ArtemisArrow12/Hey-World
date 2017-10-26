@@ -10,6 +10,6 @@ My goals with Github are:
 - [ ] Create a useful project
 - [ ] Be able to use my codes in everyday life
 
-Thanks for reading this!
+Thanks for reading this! :sunglasses:
 
 (*PS: The boxes will be checked off after each goal is completed*)

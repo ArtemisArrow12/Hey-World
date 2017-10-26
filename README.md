@@ -4,8 +4,6 @@
 
 My prior coding experience was all from [Scratch](https://scratch.mit.edu).
 
-/play horror
-
 My goals with Github are:
 
 - Learn how to navigate Github
